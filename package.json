@@ -1,0 +1,15 @@
+{
+  "name": "projet-qualite-code",
+  "version": "1.0.0",
+  "description": "Projet exemple pour analyse SonarQube",
+  "main": "userController.js",
+  "scripts": {
+    "start": "node userController.js"
+  },
+  "author": "Toi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
