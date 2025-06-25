@@ -43,8 +43,8 @@ Une fois l’analyse SonarQube lancée, on s’attend à :
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 L’analyse manuelle a permis de repérer plusieurs problèmes courants liés à la qualité et à la sécurité du code.  
-La correction de ces problèmes a été faite avec attention afin de produire un code plus maintenable, sécurisé et lisible.  
-L’étape suivante consistera à valider ces corrections via SonarQube et, si possible, automatiser cette vérification avec un pipeline CI.
+La correction de ces problèmes a été faite afin de produire un code plus maintenable, sécurisé et lisible.  
+L’étape suivante consistera à valider ces corrections via SonarQube.
